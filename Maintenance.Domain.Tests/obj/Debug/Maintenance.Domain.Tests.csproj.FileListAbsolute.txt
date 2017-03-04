@@ -1,0 +1,8 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\bin\Debug\Maintenance.Domain.Tests.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\bin\Debug\Maintenance.Domain.Tests.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\bin\Debug\Maintenance.Domain.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\bin\Debug\Maintenance.Domain.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\obj\Debug\Maintenance.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\obj\Debug\Maintenance.Domain.Tests.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Domain.Tests\obj\Debug\Maintenance.Domain.Tests.pdb

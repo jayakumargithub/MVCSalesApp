@@ -1,0 +1,6 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\DesignTimeHelpers\bin\Debug\DesignTimeHelpers.dll.config
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\DesignTimeHelpers\bin\Debug\DesignTimeHelpers.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\DesignTimeHelpers\bin\Debug\DesignTimeHelpers.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\DesignTimeHelpers\obj\Debug\DesignTimeHelpers.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\DesignTimeHelpers\obj\Debug\DesignTimeHelpers.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\DesignTimeHelpers\obj\Debug\DesignTimeHelpers.pdb

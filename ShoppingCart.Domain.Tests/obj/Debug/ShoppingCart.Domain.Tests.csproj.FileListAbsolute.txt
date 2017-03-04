@@ -1,0 +1,10 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\ShoppingCart.Domain.Tests.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\ShoppingCart.Domain.Tests.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\MvcSalesApp.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\ShoppingCart.Domain.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\MvcSalesApp.SharedKernel.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\bin\Debug\ShoppingCart.Domain.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\obj\Debug\ShoppingCart.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\obj\Debug\ShoppingCart.Domain.Tests.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\ShoppingCart.Domain.Tests\obj\Debug\ShoppingCart.Domain.Tests.pdb

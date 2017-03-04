@@ -1,0 +1,17 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Data.Tests.dll.config
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Data.Tests.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Data.Tests.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\EntityFramework.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\MvcSalesApp.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Data.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Domain.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\MvcSalesApp.SharedKernel.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Data.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\Order.Domain.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\EntityFramework.xml
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\obj\Debug\Order.Data.Tests.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\obj\Debug\Order.Data.Tests.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Order.Data.Tests\obj\Debug\Order.Data.Tests.pdb

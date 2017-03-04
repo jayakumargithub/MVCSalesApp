@@ -1,0 +1,13 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Data.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Data.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Domain.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Domain.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.xml
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.Migrations.init.resources
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.csproj.GenerateResource.Cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.pdb

@@ -1,0 +1,8 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\bin\Debug\MvcSalesApp.Tests.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\bin\Debug\MvcSalesApp.Tests.SharedKernel.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\bin\Debug\MvcSalesApp.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\bin\Debug\MvcSalesApp.SharedKernel.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\obj\Debug\MvcSalesApp.Tests.SharedKernel.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\obj\Debug\MvcSalesApp.Tests.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.Tests.SharedKernel\obj\Debug\MvcSalesApp.Tests.SharedKernel.pdb

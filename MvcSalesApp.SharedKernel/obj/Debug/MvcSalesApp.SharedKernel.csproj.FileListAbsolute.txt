@@ -1,0 +1,5 @@
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.SharedKernel\bin\Debug\MvcSalesApp.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.SharedKernel\bin\Debug\MvcSalesApp.SharedKernel.pdb
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.SharedKernel\obj\Debug\MvcSalesApp.SharedKernel.csprojResolveAssemblyReference.cache
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.SharedKernel\obj\Debug\MvcSalesApp.SharedKernel.dll
+C:\pluralsight\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\MvcSalesApp.SharedKernel\obj\Debug\MvcSalesApp.SharedKernel.pdb
